@@ -42,7 +42,6 @@ public class Solution_200 {
                 }
             }
         }
-
         return count;
     }
 
